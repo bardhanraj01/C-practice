@@ -1,4 +1,4 @@
-// C program
+// C program to find factorial of a number.
 #include<stdio.h>
 int main(){
     int n,i;
